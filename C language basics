@@ -2,5 +2,7 @@
 Main()
 {
 Int i;
-Printf("hello world")
+char a;
+Printf("enter your name")
+scanf("%d",&a)
 }
