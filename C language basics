@@ -4,5 +4,6 @@ Main()
 Int i;
 char a;
 Printf("enter your name")
-scanf("%d",&a)
+scanf("%s",&a)
+printf("the name is %s",&a);
 }
